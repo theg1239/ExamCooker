@@ -16,7 +16,7 @@ import { faArrowLeft, faSquareXmark } from "@fortawesome/free-solid-svg-icons";
 import { useToast } from "@/components/ui/use-toast";
 import Loading from "@/app/@protected_routes/loading";
 
-const years = ["2020", "2021", "2022", "2023", "2024"];
+const years = ["2020", "2021", "2022", "2023", "2024","2025"];
 const slots = [
     "A1",
     "A2",
