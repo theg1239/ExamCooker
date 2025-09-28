@@ -11,9 +11,14 @@ interface PaginationProps {
   searchQuery?: string;
   tagsQuery?: string;
   typeQuery?: string;
+  examType?: string;
+  slot?: string;
+  year?: string;
+  subjectCode?: string;
+  subject?: string;
 }
 
-const Pagination: React.FC<PaginationProps> = ({ currentPage, totalPages, basePath, searchQuery, tagsQuery, typeQuery }) => {
+const Pagination: React.FC<PaginationProps> = ({ currentPage, totalPages, basePath, searchQuery, tagsQuery, typeQuery, examType, slot, year, subjectCode, subject }) => {
   const maxVisiblePages = 5;
 
   function getPageNumbers() {
@@ -35,17 +40,17 @@ const Pagination: React.FC<PaginationProps> = ({ currentPage, totalPages, basePa
   const { pageNumbers, startPage, endPage } = getPageNumbers();
 
   const getPageUrl = (page: number) => {
-    let url = `${basePath}?page=${page}`;
-    if (searchQuery) {
-      url += `&search=${encodeURIComponent(searchQuery)}`;
-    }
-    if (tagsQuery) {
-      url += `&tags=${encodeURIComponent(tagsQuery)}`;
-    }
-    if (typeQuery) {
-      url += `&type=${encodeURIComponent(typeQuery)}`;
-    }
-    return url;
+    const params = new URLSearchParams();
+    params.set('page', String(page));
+    if (searchQuery) params.set('search', searchQuery);
+    if (tagsQuery) params.set('tags', tagsQuery);
+    if (typeQuery) params.set('type', typeQuery);
+    if (examType) params.set('examType', examType);
+    if (slot) params.set('slot', slot);
+    if (year) params.set('year', year);
+    if (subjectCode) params.set('subjectCode', subjectCode);
+    if (subject) params.set('subject', subject);
+    return `${basePath}?${params.toString()}`;
   };
 
   const PageLink = ({ page, children }: { page: number; children: React.ReactNode }) => (
