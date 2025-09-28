@@ -1264,132 +1264,113 @@ export const WildlifeJSON = {
     }
   ]
 }
+
 export const ForestJSON = {
   "title": "NOC:Forests and their management",
-  "code":"102104082",
+  "code": "102104082",
   "weeks": [
     {
       "name": "1",
       "questions": [
         {
-          "question": "The term 'forest' originates from",
+          "question": "Which of these is not a consumptive value?",
           "options": [
-            " Latin 'foris' meaning outside",
-            "Greek 'foris' meaning outside",
-            "Latin 'foris' meaning trees",
-            "Greek 'foris' meaning trees"
+            "timber",
+            "firewood",
+            "non-timber forest products",
+            "education"
           ],
-          "answer": 
-            " Latin 'foris' meaning outside"
-          
+          "answer": "education"
         },
         {
-          "question": "According to the Supreme Court the word 'forest' must be understood according to its",
+          "question": "The value derived from the knowledge of use of resources by others in the current generation is called",
           "options": [
-            " Biological meaning",
+            "altruistic value",
+            "bequest value",
+            "existence value",
+            "option value"
+          ],
+          "answer": "altruistic value"
+        },
+        {
+          "question": "The term 'forest' originates from",
+          "options": [
+            "Latin foris meaning outside",
+            "Greek foris meaning outside",
+            "Latin foris meaning trees",
+            "Greek foris meaning trees"
+          ],
+          "answer": "Latin foris meaning outside"
+        },
+        {
+          "question": "The value of leaving use and non-use values for offspring's or future generations is called",
+          "options": [
+            "altruistic value",
+            "bequest value",
+            "existence value",
+            "option value"
+          ],
+          "answer": "bequest value"
+        },
+        {
+          "question": "Tropical moist forests do not include",
+          "options": [
+            "broadleaved forests",
+            "wet evergreen forests",
+            "semi-evergreen forests",
+            "moist deciduous forests"
+          ],
+          "answer": "broadleaved forests"
+        },
+        {
+          "question": "According to the Supreme Court, the term forest land includes",
+          "options": [
+            "some area recorded as forest in the Government record according to ownership",
+            "any area recorded as forest in the Government record according to ownership",
+            "some area recorded as forest in the Government record irrespective of ownership",
+            "any area recorded as forest in the Government record irrespective of ownership"
+          ],
+          "answer": "any area recorded as forest in the Government record irrespective of ownership"
+        },
+        {
+          "question": "Which of these is not a use value?",
+          "options": [
+            "direct value",
+            "indirect value",
+            "option value",
+            "existence value"
+          ],
+          "answer": "existence value"
+        },
+        {
+          "question": "According to the Supreme Court, the word forest must be understood according to its",
+          "options": [
+            "biological meaning",
             "ecological meaning",
             "silvicultural meaning",
             "dictionary meaning"
           ],
-          "answer": 
-            "dictionary meaning"
-          
+          "answer": "dictionary meaning"
         },
         {
-          "question": "According to the Supreme Court, the term 'forest land' includes",
+          "question": "\"Plant community, predominantly comprised of trees and other woody vegetation, usually with a closed canopy\" is",
           "options": [
-            " some area recorded as the forest in the government record according to ownership",
-            "any area recorded as forest in the government record according to ownership",
-            "some area recorded as forest in government record irrespective of ownership",
-            "any area recorded as forest in the government record irrespective of ownership"
-          ],
-          "answer": 
-            "any area recorded as forest in the government record irrespective of ownership"
-          
-        },
-        {
-          "question": "\"Plant community, predominantly comprised of trees and other woody vegitation, usually with a closed canopy\" is",
-          "options": [
-            " silvicultrual definition of forests",
+            "silvicultural definition of forests",
             "FAO definition of forests",
             "legal definition of forests",
-            "ecological definition of forest"
+            "ecological definition of forests"
           ],
-          "answer": 
-            "ecological definition of forest"
-          
-        },
-        {
-          "question": "Tropical moist forests don't include",
-          "options": [
-            " Broadleaved forest",
-            "wet-evergreen forest",
-            "semi-evergreen forest",
-            "moist deciduous forests"
-          ],
-          "answer": 
-            " Broadleaved forest"
-          
-        },
-        {
-          "question": "Which of these is not a use value",
-          "options": [
-            " Odirect value",
-            "indirect value",
-            "O option value",
-            "existence value"
-          ],
-          "answer": 
-            "existence value"
-          
-        },
-        {
-          "question": "Montane sub-tropical forests don't include",
-          "options": [
-            " Broadleaved forests",
-            "pine forest",
-            "semi-evergreen forest",
-            "Odry-evergreen forest"
-          ],
-          "answer": 
-            "semi-evergreen forest"
-          
+          "answer": "ecological definition of forests"
         },
         {
           "question": "Which of these is not a forest type found in India?",
           "options": [
-            " Mediterranean dry",
+            "Mediterranean dry",
             "Tropical dry",
             "Montane temperate",
             "Alpine"
           ],
-          "answer": 
-            " Mediterranean dry"
-          
-        },
-        {
-          "question": "The value of leaving use and non-use values for off-springs or future generation is called",
-          "options": [
-            " altruistic value",
-            "bequest value",
-            "existance value",
-            "O option value"
-          ],
-          "answer": 
-            "bequest value"
-          
-        },
-        {
-          "question": "Which of these is not a consumptive value",
-          "options": [
-            " Otimber",
-            "firewood",
-            "non-timber forest products",
-            "Education"
-          ],
-          "answer": 
-            "Education"
-          
+          "answer": "Mediterranean dry"
         }
       ]
     },
@@ -1397,124 +1378,104 @@ export const ForestJSON = {
       "name": "2",
       "questions": [
         {
-          "question": "Which of these is abiotic factor?\nVines\nTrees\nRaptiles\nWater",
+          "question": "The climax near Tindni village is being controlled by disturbance by cattle. This is an example of",
           "options": [
-            " Vines",
-            "Trees",
-            "Raptiles",
-            "Water"
+            "climatic climax",
+            "edaphic climax",
+            "disclimax",
+            "catastrophic climax"
           ],
-          "answer": 
-            "Water"
-          
+          "answer": "disclimax"
         },
         {
-          "question": "In the formula, I = PXAXT, T rafers to -\nTransference\nTime\nTechnology\nNone of these",
+          "question": "Lithosere is an example of",
           "options": [
-            " Transference",
-            "Time",
-            "Technology",
-            "None of these"
+            "hydrosere",
+            "xerosere",
+            "psammosere",
+            "halosere"
           ],
-          "answer": 
-            "Technology"
-          
+          "answer": "xerosere"
         },
         {
-          "question": "Lithosere is an example of -\nHydrosere\nXerosere\nPsammosere\nHalosere",
+          "question": "Which of these depicts correctly the lithosere primary succession?",
           "options": [
-            " Hydrosere",
-            "Xerosere",
-            "Psammosere",
-            "Halosere"
+            "Rock → Crustose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax",
+            "Rock → Foliose lichen → Crustose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax",
+            "Moss → Crustose lichen → Foliose lichen → Rock → Herbaceous stage → Shrub → Woodland → Climax",
+            "Rock → Crustose lichen → Foliose lichen → Shrub → Herbaceous stage → Moss → Woodland → Climax"
           ],
-          "answer": 
-            "Xerosere"
-          
+          "answer": "Rock → Crustose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax"
         },
         {
-          "question": "The art and science of cultivating forest crops is called\nForesticulture\nMonoculture\nSilviculture\nSilvics",
+          "question": "At compensation point,",
           "options": [
-            " Foresticulture",
-            "Monoculture",
-            "Silviculture",
-            "Silvics"
+            "photosynthesis = respiration",
+            "photosynthesis > respiration",
+            "photosynthesis < respiration",
+            "none of these"
           ],
-          "answer": 
-            "Silviculture"
-          
+          "answer": "photosynthesis = respiration"
         },
         {
-          "question": "Net primary productivity is given by\nAPAR + LUE\nAPAR X LUE\nAPAR - LUE\nAPAR/LUE",
+          "question": "The study of life history / general features of forest crops with respect to environmental factors is called",
           "options": [
-            " APAR + LUE",
+            "foresticulture",
+            "monoculture",
+            "silviculture",
+            "silvics"
+          ],
+          "answer": "silvics"
+        },
+        {
+          "question": "A climax caused by wildfires is an example of",
+          "options": [
+            "climatic climax",
+            "edaphic climax",
+            "disclimax",
+            "catastrophic climax"
+          ],
+          "answer": "catastrophic climax"
+        },
+        {
+          "question": "Net primary productivity is given by",
+          "options": [
+            "APAR + LUE",
             "APAR X LUE",
-            "APAR - LUE",
-            "APAR/LUE"
+            "APAR : LUE",
+            "APAR LUE"
           ],
-          "answer": 
-            "APAR X LUE"
-          
+          "answer": "APAR X LUE"
         },
         {
-          "question": "In the context of plant nutrition, Boron is\nMacronutrient\nMicronutrient\nPrimary nutrient\nSecondary nutrient",
+          "question": "Practical application of scientific, technical and economic principles of forestry comes under which branch of forestry?",
           "options": [
-            " Macronutrient",
-            "Micronutrient",
-            "Primary nutrient",
-            "Secondary nutrient"
+            "forest management",
+            "forest economics",
+            "forest mensuration",
+            "forest protection"
           ],
-          "answer": 
-            "Micronutrient"
-          
+          "answer": "forest management"
         },
         {
-          "question": "Which of these is not a characteristics of pioneer species?\nAbility to grow on bare rocks.\nAbility to tolerate extreme temperature.\nLarge size\nShort life span",
+          "question": "In the context of plant nutrition, boron is",
           "options": [
-            " Ability to grow on bare rocks.",
-            "Ability to tolerate extreme temperature.",
-            "Large size",
-            "Short life span"
+            "macronutrient",
+            "micronutrient",
+            "primary nutrient",
+            "secondary nutrient"
           ],
-          "answer": 
-            "Large size"
-          
+          "answer": "micronutrient"
         },
         {
-          "question": "The study of life hoistory/general features of forest crops with respect to environmental factors is called\nForesticulture\nMonoculture\nSilviculture\nSilvics",
+          "question": "Which of these is not a characteristic of pioneer species",
           "options": [
-            " Foresticulture",
-            "Monoculture",
-            "Silviculture",
-            "Silvics"
+            "ability to grow on bare rocks",
+            "ability to tolerate extreme temperatures",
+            "large size",
+            "short life span"
           ],
-          "answer": 
-            "Silvics"
-          
-        },
-        {
-          "question": "At compensation point,\nPhotosynthesis = respiration\nPhotosynthesis \u003E respiration\nPhotosynthesis \u003C respiration\nNone of these.",
-          "options": [
-            " Photosynthesis = respiration",
-            "Photosynthesis \u003E respiration",
-            "Photosynthesis \u003C respiration",
-            "None of these."
-          ],
-          "answer": 
-            " Photosynthesis = respiration"
-          
-        },
-        {
-          "question": "Practical application of scientific, technical and economic principles of forestry comes under which branch of forestry?\nForest management\nForset economics\nForset mensuration\nForest protection",
-          "options": [
-            " Forest management",
-            "Forset economics",
-            "Forset mensuration",
-            "Forest protection"
-          ],
-          "answer": 
-            " Forest management"
-          
+          "answer": "large size"
         }
       ]
     },
@@ -1522,124 +1483,104 @@ export const ForestJSON = {
       "name": "3",
       "questions": [
         {
-          "question": "The term laterite soil is derived from Latin \"later' which means",
+          "question": "Mechanical action of ocean waves is an example of",
           "options": [
-            " red",
-            "brick",
-            "fertile",
-            "infertile"
-          ],
-          "answer": 
-            "brick"
-          
-        },
-        {
-          "question": "Soil formation is dependent upon",
-          "options": [
-            " vegetation",
-            "time",
-            "climate",
-            "all of the above"
-          ],
-          "answer": 
-            "all of the above"
-          
-        },
-        {
-          "question": "Self ploughing character is seen in",
-          "options": [
-            " black cotton soil",
-            "alluvial soil",
-            "saline soil",
-            "red and yellow soil"
-          ],
-          "answer": 
-            " black cotton soil"
-          
-        },
-        {
-          "question": "Hydrolysis is an example of",
-          "options": [
-            " chemical weathering",
+            "chemical weathering",
             "physical weathering",
             "biological weathering",
             "none of the above"
           ],
-          "answer": 
-            " chemical weathering"
-          
+          "answer": "physical weathering"
         },
         {
-          "question": "Which of these has the highest organic matter content?",
+          "question": "Khadar is a type of",
           "options": [
-            " peaty soil",
+            "black cotton soil",
             "alluvial soil",
             "saline soil",
             "red and yellow soil"
           ],
-          "answer": 
-            " peaty soil"
-          
+          "answer": "alluvial soil"
         },
         {
           "question": "In soil profile, C refers to",
           "options": [
-            " organic surface layer",
+            "organic surface layer",
             "topsoil layer",
             "subsoil layer",
             "substratum layer"
           ],
-          "answer": 
-            "substratum layer"
-          
+          "answer": "substratum layer"
         },
         {
-          "question": "Carbonation is an example of",
+          "question": "Regur is a term for",
           "options": [
-            " chemical weathering",
-            "physical weathering",
-            "biological weathering",
-            "none of the above"
+            "black cotton soil",
+            "alluvial soil",
+            "saline soil",
+            "red and yellow soil"
           ],
-          "answer": 
-            " chemical weathering"
-          
+          "answer": "black cotton soil"
         },
         {
-          "question": "Vertical arrangement of soil horizons is called",
+          "question": "Bangar is a type of",
           "options": [
-            " soil texture",
-            "soil structure",
-            "soil profile",
-            "soil science"
+            "black cotton soil",
+            "alluvial soil",
+            "saline soil",
+            "red and yellow soil"
           ],
-          "answer": 
-            "soil profile"
-          
+          "answer": "alluvial soil"
         },
         {
-          "question": "Mechanical action of ocean waves is an example of",
+          "question": "Soil formation is dependent upon",
           "options": [
-            " chemical weathering",
-            "physical weathering",
-            "biological weathering",
-            "none of the above"
+            "vegetation",
+            "time",
+            "climate",
+            "all of the above"
           ],
-          "answer": 
-            "physical weathering"
-          
+          "answer": "all of the above"
         },
         {
           "question": "Thermal stresses lead to",
           "options": [
-            " chemical weathering",
+            "chemical weathering",
             "physical weathering",
             "biological weathering",
             "none of the above"
           ],
-          "answer": 
-            "physical weathering"
-          
+          "answer": "physical weathering"
+        },
+        {
+          "question": "Carbonation is an example of",
+          "options": [
+            "chemical weathering",
+            "physical weathering",
+            "biological weathering",
+            "none of the above"
+          ],
+          "answer": "chemical weathering"
+        },
+        {
+          "question": "Cryofracturing is an example of",
+          "options": [
+            "chemical weathering",
+            "physical weathering",
+            "biological weathering",
+            "none of the above"
+          ],
+          "answer": "physical weathering"
+        },
+        {
+          "question": "Hydrolysis is an example of",
+          "options": [
+            "chemical weathering",
+            "physical weathering",
+            "biological weathering",
+            "none of the above"
+          ],
+          "answer": "chemical weathering"
         }
       ]
     },
@@ -1647,124 +1588,104 @@ export const ForestJSON = {
       "name": "4",
       "questions": [
         {
-          "question": "Choose the correct statement:",
-          "options": [
-            " For a non-circular cross-section, girth tape over-estimates the sectional area.",
-            "For a non-circular cross-section, girth tape underestimates the sectional area.",
-            "For a non-circular cross-section, girth tape correctly estimates the sectional area.",
-            "None of these is a correct statement."
-          ],
-          "answer": 
-            " For a non-circular cross-section, girth tape over-estimates the sectional area."
-          
-        },
-        {
           "question": "A tree has dbh of 25 cm. Find its basal area in sq m.",
           "options": [
-            " 0.49",
-            "0.096",
-            "0.149",
-            "0.195"
+            ".049",
+            ".096",
+            ".149",
+            ".195"
           ],
-          "answer": 
-            " 0.49"
-          
+          "answer": ".049"
         },
         {
           "question": "For absolute form factor, the reference for the base of the cylinder is",
           "options": [
-            " base of the tree",
+            "base of the tree",
             "breast height",
             "10% of tree height",
             "20% of tree height"
           ],
-          "answer": 
-            " base of the tree"
-          
-        },
-        {
-          "question": "The breast height for Japan and Korea is",
-          "options": [
-            " 1.1 m",
-            "1.2 m",
-            "1.3 m",
-            "1.4 m"
-          ],
-          "answer": 
-            "1.2 m"
-          
-        },
-        {
-          "question": "In the triangle of figure, θ = 60° and c = 4 cm. Find b.",
-          "options": [
-            " 0.66",
-            "1",
-            "1.5",
-            "2"
-          ],
-          "answer": 
-            "2"
-          
-        },
-        {
-          "question": "Consider a stand of eucalyptus trees that are on average 30 cm in diameter and spaced on a regular 3 m grid. Find the spacing factor.",
-          "options": [
-            " 5",
-            "10",
-            "15",
-            "data insufficient"
-          ],
-          "answer": 
-            "10"
-          
-        },
-        {
-          "question": "For false form factor, the reference for the base of the cylinder is",
-          "options": [
-            " base of the tree",
-            "breast height",
-            "10% of tree height",
-            "20% of tree height"
-          ],
-          "answer": 
-            "breast height"
-          
-        },
-        {
-          "question": "A tree has dbh of 35 cm. Find its basal area in sq m.",
-          "options": [
-            " 0.49",
-            "0.096",
-            "0.149",
-            "0.195"
-          ],
-          "answer": 
-            "0.096"
-          
-        },
-        {
-          "question": "Diameter over bark (dob), diameter under bark (dub) and bark thickness (tb) are related as:",
-          "options": [
-            " dob = dub + tb",
-            "dob = dub - tb",
-            "dob = dub + 2 x tb",
-            "dob = dub - 2 x tb"
-          ],
-          "answer": 
-            "dob = dub + 2 x tb"
-          
+          "answer": "base of the tree"
         },
         {
           "question": "For normal form factor, the reference for the base of the cylinder is",
           "options": [
-            " base of the tree",
+            "base of the tree",
             "breast height",
             "10% of tree height",
             "20% of tree height"
           ],
-          "answer": 
-            "10% of tree height"
-          
+          "answer": "10% of tree height"
+        },
+        {
+          "question": "In India, the breast height is considered to be",
+          "options": [
+            "1.37 m",
+            "1.47 m",
+            "1.57 m",
+            "2.47 m"
+          ],
+          "answer": "1.37 m"
+        },
+        {
+          "question": "Measurement of height based on similar triangles comes under:",
+          "options": [
+            "similar measurement",
+            "dissimilar measurement",
+            "indirect measurement",
+            "direct measurement"
+          ],
+          "answer": "indirect measurement"
+        },
+        {
+          "question": "For a tree with dbh = 45.6 cm, height = 27 m and total stem volume of 1.78 cum, the artificial form factor for the tree is:",
+          "options": [
+            "0.1",
+            "0.2",
+            "0.3",
+            "0.4"
+          ],
+          "answer": "0.4"
+        },
+        {
+          "question": "Consider a stand of eucalyptus trees that are on average 30 cm in diameter and spaced on a regular 3 m grid. Find the spacing factor.",
+          "options": [
+            "5",
+            "10",
+            "15",
+            "data insufficient"
+          ],
+          "answer": "10"
+        },
+        {
+          "question": "Diameter over bark (dob), diameter under bark (dub) and bark thickness (tb) are related as:",
+          "options": [
+            "dob = dub + tb",
+            "dob = dub - tb",
+            "dob=dub+2xtb",
+            "dob = dub - 2 x tb"
+          ],
+          "answer": "dob=dub+2xtb"
+        },
+        {
+          "question": "For false form factor, the reference for the base of the cylinder is",
+          "options": [
+            "base of the tree",
+            "breast height",
+            "10% of tree height",
+            "20% of tree height"
+          ],
+          "answer": "breast height"
+        },
+        {
+          "question": "Choose the correct statement:",
+          "options": [
+            "For a non-circular cross-section, girth tape over-estimates the sectional area.",
+            "For a non-circular cross-section, girth tape under-estimates the sectional area.",
+            "For a non-circular cross-section, girth tape correctly estimates the sectional area.",
+            "None of these is a correct statement."
+          ],
+          "answer": "For a non-circular cross-section, girth tape over-estimates the sectional area."
         }
       ]
     },
@@ -1772,124 +1693,104 @@ export const ForestJSON = {
       "name": "5",
       "questions": [
         {
-          "question": "is how close the measured values are to the correct value.",
+          "question": "\"This sampling employs a simple rule of selecting every kth unit starting with a number chosen at random from 1 to kas the random start.\" We're talking about",
           "options": [
-            " Accuracy",
-            "Precision",
-            "Bias",
-            "Variance"
-          ],
-          "answer": 
-            " Accuracy"
-          
-        },
-        {
-          "question": "IMU stands for\nImperial metering unit\nInertial metering unit\nImperial measurement unit\nInertial measurement unit",
-          "options": [
-            " Imperial metering unit",
-            "Inertial metering unit",
-            "Imperial measurement unit",
-            "Inertial measurement unit"
-          ],
-          "answer": 
-            "Inertial measurement unit"
-          
-        },
-        {
-          "question": "Which of these is correct?\nPlane surveying takes into account the true shape of the Earth and is used for smaller areas (\u003C 250 sq km)\nPlane surveying takes into account the true shape of the Earth and is used for larger areas (\u003E 250 sq km)\nGeodetic surveying takes into account the true shape of the Earth and is used for smaller areas (\u003C 250 sq km)\nGeodetic surveying takes into account the true shape of the Earth and is used for larger areas (\u003E 250 sq km)",
-          "options": [
-            " Plane surveying takes into account the true shape of the Earth and is used for smaller areas (\u003C 250 sq km)",
-            "Plane surveying takes into account the true shape of the Earth and is used for larger areas (\u003E 250 sq km)",
-            "Geodetic surveying takes into account the true shape of the Earth and is used for smaller areas (\u003C 250 sq km)",
-            "Geodetic surveying takes into account the true shape of the Earth and is used for larger areas (\u003E 250 sq km)"
-          ],
-          "answer": 
-            "Geodetic surveying takes into account the true shape of the Earth and is used for larger areas (\u003E 250 sq km)"
-          
-        },
-        {
-          "question": "Plots as topographical units are used in\nhills\nplains\ndeserts\ntundra",
-          "options": [
-            " hills",
-            "plains",
-            "deserts",
-            "tundra"
-          ],
-          "answer": 
-            " hills"
-          
-        },
-        {
-          "question": "is how close the measured values are to each other.",
-          "options": [
-            " Accuracy",
-            "Precision",
-            "Bias",
-            "Variance"
-          ],
-          "answer": 
-            "Precision"
-          
-        },
-        {
-          "question": "A list of sampling units will be called a\nframe\nwindow\nsample\npopulation",
-          "options": [
-            " frame",
-            "window",
-            "sample",
-            "population"
-          ],
-          "answer": 
-            " frame"
-          
-        },
-        {
-          "question": "\"This sampling employs a simple rule of selecting every kth unit starting with a number chosen at random from 1 to k as the random start.\" We're talking about\nSimple random sampling\nSystematic sampling\nStratified sampling\nMultistage sampling",
-          "options": [
-            " Simple random sampling",
+            "Simple random sampling",
             "Systematic sampling",
             "Stratified sampling",
             "Multistage sampling"
           ],
-          "answer": 
-            "Systematic sampling"
-          
+          "answer": "Systematic sampling"
         },
         {
-          "question": "The frequency of flyovers is an indicator of\nspatial resolution\ntemporal resolution\nspectral resolution\nradiometric resolution",
+          "question": "IMU stands for",
           "options": [
-            " spatial resolution",
-            "temporal resolution",
-            "spectral resolution",
-            "radiometric resolution"
+            "Imperial metering unit",
+            "Inertial metering unit",
+            "Imperial measurement unit",
+            "Inertial measurement unit"
           ],
-          "answer": 
-            "temporal resolution"
-          
+          "answer": "Inertial measurement unit"
         },
         {
-          "question": "The time of flight for LiDAR is 0.00001 sec. Find the distance of the object from the instrument.\n500 m\n1000 m\n1500 m\n2000 m",
+          "question": " is how close the measured values are to the correct value.",
           "options": [
-            " 500 m",
+            "Accuracy",
+            "Precision",
+            "Bias",
+            "Variance"
+          ],
+          "answer": "Accuracy"
+        },
+        {
+          "question": "A list of sampling units is called a",
+          "options": [
+            "frame",
+            "window",
+            "sample",
+            "population"
+          ],
+          "answer": "frame"
+        },
+        {
+          "question": "The time of flight for LiDAR is 0.00001 sec. Find the distance of the object from the instrument.",
+          "options": [
+            "500 m",
             "1000 m",
             "1500 m",
             "2000 m"
           ],
-          "answer": 
-            "1500 m"
-          
+          "answer": "1500 m"
         },
         {
-          "question": "Bathymetric LiDAR uses\nfar infrared light\nnear infrared light\norange light\ngreen light",
+          "question": "Which of these is correct?",
           "options": [
-            " far infrared light",
+            "Plane surveying takes into account the true shape of the Earth and is used for smaller areas (< 250 sq km)",
+            "Plane surveying takes into account the true shape of the Earth and is used for larger areas (> 250 sq km)",
+            "Geodetic surveying takes into account the true shape of the Earth and is used for smaller areas (< 250 sq km)",
+            "Geodetic surveying takes into account the true shape of the Earth and is used for larger areas (> 250 sq km)"
+          ],
+          "answer": "Geodetic surveying takes into account the true shape of the Earth and is used for larger areas (> 250 sq km)"
+        },
+        {
+          "question": "A sampling procedure such that each possible combination of sampling units out of the population has the same chance of being selected is referred to as",
+          "options": [
+            "Simple random sampling",
+            "Systematic sampling",
+            "Stratified sampling",
+            "Multistage sampling"
+          ],
+          "answer": "Simple random sampling"
+        },
+        {
+          "question": "The frequency of flyovers is an indicator of",
+          "options": [
+            "spatial resolution",
+            "temporal resolution",
+            "spectral resolution",
+            "radiometric resolution"
+          ],
+          "answer": "temporal resolution"
+        },
+        {
+          "question": " is how close the measured values are to each other.",
+          "options": [
+            "Accuracy",
+            "Precision",
+            "Bias",
+            "Variance"
+          ],
+          "answer": "Precision"
+        },
+        {
+          "question": "Bathymetric LiDAR uses",
+          "options": [
+            "far infrared light",
             "near infrared light",
             "orange light",
             "green light"
           ],
-          "answer": 
-            "green light"
-          
+          "answer": "green light"
         }
       ]
     },
@@ -1897,124 +1798,104 @@ export const ForestJSON = {
       "name": "6",
       "questions": [
         {
-          "question": "Which of these forms the fire triangle?",
-          "options": [
-            " fire, air, heat",
-            "fire, oxygen, wood",
-            "fuel, air, wood",
-            "fuel, oxygen, heat"
-          ],
-          "answer": 
-            "fuel, oxygen, heat"
-          
-        },
-        {
-          "question": "The acronym HIPPO does not include",
-          "options": [
-            " habitat loss",
-            "invasive species",
-            "pollination",
-            "pollution"
-          ],
-          "answer": 
-            "pollination"
-          
-        },
-        {
-          "question": "In the formula I = PXAXT, T refers to",
-          "options": [
-            " transference",
-            "time",
-            "technology",
-            "none of the above"
-          ],
-          "answer": 
-            "technology"
-          
-        },
-        {
-          "question": "Which of these is a stochastic factor?",
-          "options": [
-            " birth rate",
-            "death rate",
-            "population structure",
-            "forest fire"
-          ],
-          "answer": 
-            "forest fire"
-          
-        },
-        {
-          "question": "Which of these is a deterministic factor?",
-          "options": [
-            " environmental variation",
-            "forest fire",
-            "death rate",
-            "diseases"
-          ],
-          "answer": 
-            "death rate"
-          
-        },
-        {
-          "question": "A scientist uses a trap to capture a monkey. In the context of Wildlife Protection Act 1972, ",
-          "options": [
-            " the trap is a weapon and capturing is hunting.",
-            "the trap is not a weapon and capturing is hunting.",
-            "the trap is a weapon and capturing is not hunting.",
-            "the trap is not a weapon and capturing is not hunting."
-          ],
-          "answer": 
-            " the trap is a weapon and capturing is hunting."
-          
-        },
-        {
-          "question": "The acronym HIPPO does not include",
-          "options": [
-            " habitat loss",
-            "habitat enhancement",
-            "invasive species",
-            "human over-population"
-          ],
-          "answer": 
-            "habitat enhancement"
-          
-        },
-        {
           "question": "Invasive climbers increase the probability of which of these fire types?",
           "options": [
-            " ground fire",
+            "ground fire",
             "surface fire",
             "ladder fire",
             "firestorm"
           ],
-          "answer": 
-            "ladder fire"
-          
+          "answer": "ladder fire"
+        },
+        {
+          "question": "Which of these forms the fire triangle?",
+          "options": [
+            "fire, air, heat",
+            "fire, oxygen, wood",
+            "fuel, air, wood",
+            "fuel, oxygen, heat"
+          ],
+          "answer": "fuel, oxygen, heat"
+        },
+        {
+          "question": "A scientist uses a trap to capture a monkey. In the context of Wildlife Protection Act 1972,",
+          "options": [
+            "the trap is a weapon and capturing is hunting.",
+            "the trap is not a weapon and capturing is hunting.",
+            "the trap is a weapon and capturing is not hunting.",
+            "the trap is not a weapon and capturing is not hunting."
+          ],
+          "answer": "the trap is a weapon and capturing is hunting."
         },
         {
           "question": "In the formula I = PXAXT, P refers to",
           "options": [
-            " professional pressure",
+            "professional pressure",
             "pollution pressure",
             "population pressure",
             "none of the above"
           ],
-          "answer": 
-            "population pressure"
-          
+          "answer": "population pressure"
+        },
+        {
+          "question": "In the formula I = PXAXT, T refers to",
+          "options": [
+            "transference",
+            "time",
+            "technology",
+            "none of the above"
+          ],
+          "answer": "technology"
+        },
+        {
+          "question": "Which of these is a stochastic factor?",
+          "options": [
+            "birth rate",
+            "death rate",
+            "population structure",
+            "forest fire"
+          ],
+          "answer": "forest fire"
+        },
+        {
+          "question": "The acronym HIPPO does not include",
+          "options": [
+            "habitat loss",
+            "habitat enhancement",
+            "over-harvesting",
+            "human over-population"
+          ],
+          "answer": "habitat enhancement"
         },
         {
           "question": "A veterinarian uses an immobilising gun to capture a deer. In the context of Wildlife Protection Act 1972,",
           "options": [
-            " the immobilising gun is a weapon and capturing is hunting.",
+            "the immobilising gun is a weapon and capturing is hunting.",
             "the immobilising gun is not a weapon and capturing is hunting.",
             "the immobilising gun is a weapon and capturing is not hunting.",
             "the immobilising gun is not a weapon and capturing is not hunting."
           ],
-          "answer": 
-            " the immobilising gun is a weapon and capturing is hunting."
-          
+          "answer": "the immobilising gun is a weapon and capturing is hunting."
+        },
+        {
+          "question": "Which of these is a deterministic factor?",
+          "options": [
+            "environmental variation",
+            "forest fire",
+            "death rate",
+            "diseases"
+          ],
+          "answer": "death rate"
+        },
+        {
+          "question": "The acronym HIPPO does not include",
+          "options": [
+            "habitat loss",
+            "invasive species",
+            "pollination",
+            "pollution"
+          ],
+          "answer": "pollination"
         }
       ]
     },
@@ -2022,124 +1903,104 @@ export const ForestJSON = {
       "name": "7",
       "questions": [
         {
-          "question": "Which of these is the correct sequence of a silvicultural system?",
-          "options": [
-            " Stand tending -\u003E Regeneration -\u003E Harvesting",
-            "Harvesting -\u003E Stand tending -\u003E Regeneration",
-            "Harvesting -\u003E Regeneration -\u003E Stand tending",
-            "Regeneration -\u003E Harvesting -\u003E Stand tending"
-          ],
-          "answer": 
-            "Harvesting -\u003E Regeneration -\u003E Stand tending"
-          
-        },
-        {
-          "question": "Tending is done during",
-          "options": [
-            " early stage of life",
-            "middle stage of life",
-            "late stage of life",
-            "any stage of life"
-          ],
-          "answer": 
-            "any stage of life"
-          
-        },
-        {
-          "question": "Which of these is not a feature of natural regeneration?",
-          "options": [
-            " low cost",
-            "less requirement of heavy machinery and labour",
-            "preservation of genetic variability",
-            "good control over genetic improvement"
-          ],
-          "answer": 
-            "good control over genetic improvement"
-          
-        },
-        {
-          "question": "Taungya regeneration is",
-          "options": [
-            " natural regeneration",
-            "artificial regeneration with villagers",
-            "artificial regeneration with nomadic tribes",
-            "artificial regeneration with hunters and gatherers"
-          ],
-          "answer": 
-            "artificial regeneration with villagers"
-          
-        },
-        {
-          "question": "The movement of seeds away from their place of seed production into a new area is called",
-          "options": [
-            " translocation",
-            "migration",
-            "dispersal",
-            "drifting"
-          ],
-          "answer": 
-            "dispersal"
-          
-        },
-        {
-          "question": "A site was clear-cut. Which of these methods of regeneration cannot be used?",
-          "options": [
-            " natural regeneration",
-            "artificial regeneration by direct sowing",
-            "artificial regeneration by planting seedlings",
-            "artificial regeneration by transplanting trees"
-          ],
-          "answer": 
-            " natural regeneration"
-          
-        },
-        {
-          "question": "Ring weeding is primarily a feature of",
-          "options": [
-            " natural regeneration",
-            "assisted natural regeneration",
-            "artificial regeneration by direct sowing",
-            "artificial regeneration by planting seedlings"
-          ],
-          "answer": 
-            "assisted natural regeneration"
-          
-        },
-        {
           "question": "Which of these is not a feature of natural regeneration",
           "options": [
-            " seed consumption by insects and seed feeders",
+            "seed consumption by insects and seed feeders",
             "little control over spacing and stand density",
             "long time needed to regenerate forest",
             "high requirement of heavy machinery and labour"
           ],
-          "answer": 
-            "high requirement of heavy machinery and labour"
-          
+          "answer": "high requirement of heavy machinery and labour"
+        },
+        {
+          "question": "Taungya regeneration is",
+          "options": [
+            "natural regeneration",
+            "artificial regeneration with villagers",
+            "artificial regeneration with nomadic tribes",
+            "artificial regeneration with hunters and gatherers"
+          ],
+          "answer": "artificial regeneration with villagers"
         },
         {
           "question": "Which of these is not advantage of clear felling system",
           "options": [
-            " Simple system, easy and efficient operations",
+            "Simple system, easy and efficient operations",
             "Allows for establishment of a more uniform crop",
             "Increases soil erosion and landslides in hilly areas",
             "Mimics natural processes of fire and large-scale insect attacks"
           ],
-          "answer": 
-            "Increases soil erosion and landslides in hilly areas"
-          
+          "answer": "Increases soil erosion and landslides in hilly areas"
+        },
+        {
+          "question": "Which of these is the correct sequence of a silvicultural system?",
+          "options": [
+            "Stand tending -> Regeneration -> Harvesting",
+            "Harvesting -> Stand tending -> Regeneration",
+            "Harvesting -> Regeneration -> Stand tending",
+            "Regeneration -> Harvesting -> Stand tending"
+          ],
+          "answer": "Harvesting -> Regeneration -> Stand tending"
+        },
+        {
+          "question": "Ring weeding is primarily a feature of",
+          "options": [
+            "natural regeneration",
+            "assisted natural regeneration",
+            "artificial regeneration by direct sowing",
+            "artificial regeneration by planting seedlings"
+          ],
+          "answer": "assisted natural regeneration"
+        },
+        {
+          "question": "Tending is done during",
+          "options": [
+            "early stage of life",
+            "middle stage of life",
+            "late stage of life",
+            "any stage of life"
+          ],
+          "answer": "any stage of life"
+        },
+        {
+          "question": "The movement of seeds away from their place of seed production into a new area is called",
+          "options": [
+            "translocation",
+            "migration",
+            "dispersal",
+            "drifting"
+          ],
+          "answer": "dispersal"
         },
         {
           "question": "Average age at which a tree is considered mature for felling is called as",
           "options": [
-            " crop age",
+            "crop age",
             "felling age",
             "rotation age",
             "maturity age"
           ],
-          "answer": 
-            "rotation age"
-          
+          "answer": "rotation age"
+        },
+        {
+          "question": "A site was clear-cut. Which of these methods of regeneration cannot be used in a short time-frame?",
+          "options": [
+            "natural regeneration",
+            "artificial regeneration by direct sowing",
+            "artificial regeneration by planting seedlings",
+            "artificial regeneration by transplanting trees"
+          ],
+          "answer": "natural regeneration"
+        },
+        {
+          "question": "Which of these is not a feature of natural regeneration",
+          "options": [
+            "low cost",
+            "less requirement of heavy machinery and labour",
+            "preservation of genetic variability",
+            "good control over genetic improvement"
+          ],
+          "answer": "good control over genetic improvement"
         }
       ]
     },
@@ -2147,124 +2008,104 @@ export const ForestJSON = {
       "name": "8",
       "questions": [
         {
-          "question": "Felling made with the object of opening the canopy to remove shelter and allow more light for the regenerated crop is",
-          "options": [
-            " preparatory felling",
-            "seeding felling",
-            "secondary felling",
-            "final felling"
-          ],
-          "answer": 
-            "secondary felling"
-          
-        },
-        {
-          "question": "Clear felling system is not used for",
-          "options": [
-            " light demanding species",
-            "shade bearer species",
-            "plain areas",
-            "plateau areas"
-          ],
-          "answer": 
-            "shade bearer species"
-          
-        },
-        {
-          "question": "For a crop with rotation age of 120 years, PB-III would have crop age",
-          "options": [
-            " 0-30 years",
-            "30-60 years",
-            "60-90 years",
-            "90-120 years"
-          ],
-          "answer": 
-            "30-60 years"
-          
-        },
-        {
-          "question": "Catchment areas are best suited for",
-          "options": [
-            " clear felling system",
-            "selection system",
-            "uniform shelterwood system",
-            "group shelterwood system"
-          ],
-          "answer": 
-            "selection system"
-          
-        },
-        {
           "question": "Shelterwood system results in",
           "options": [
-            " even aged stand with natural aesthetics",
+            "even aged stand with natural aesthetics",
             "even aged stand with artificial aesthetics",
             "uneven aged stand with natural aesthetics",
             "uneven aged stand with artificial aesthetics"
           ],
-          "answer": 
-            " even aged stand with natural aesthetics"
-          
+          "answer": "even aged stand with natural aesthetics"
+        },
+        {
+          "question": "Catchment areas are best suited for",
+          "options": [
+            "clear felling system",
+            "selection system",
+            "uniform shelterwood system",
+            "group shelterwood system"
+          ],
+          "answer": "selection system"
         },
         {
           "question": "Which of these is the correct sequence for shelterwood system?",
           "options": [
-            " Preparatory felling -\u003ESecondary felling -\u003E Seedling felling -\u003E Final felling",
-            "Preparatory felling -\u003E Seedling felling -\u003E Secondary felling -\u003E Final felling",
-            "Preparatory felling -\u003ESecondary felling -\u003E Seeding felling -\u003E Final felling",
-            "Preparatory felling -\u003E Seeding felling -\u003E Secondary felling -\u003E Final felling"
+            "Preparatory felling ->Secondary felling -> Seedling felling -> Final felling",
+            "Preparatory felling -> Seedling felling -> Secondary felling -> Final felling",
+            "Preparatory felling ->Secondary felling -> Seeding felling -> Final felling",
+            "Preparatory felling -> Seeding felling -> Secondary felling -> Final felling"
           ],
-          "answer": 
-            "Preparatory felling -\u003E Seeding felling -\u003E Secondary felling -\u003E Final felling"
-          
+          "answer": "Preparatory felling -> Seeding felling -> Secondary felling -> Final felling"
         },
         {
           "question": "Inverse-J shaped number-diameter curves are seen in",
           "options": [
-            " clear felling system",
+            "clear felling system",
             "selection system",
             "uniform shelterwood system",
             "group shelterwood system"
           ],
-          "answer": 
-            "selection system"
-          
-        },
-        {
-          "question": "Trees not putting increment are removed during",
-          "options": [
-            " preparatory felling",
-            "seeding felling",
-            "secondary felling",
-            "final felling"
-          ],
-          "answer": 
-            " preparatory felling"
-          
+          "answer": "selection system"
         },
         {
           "question": "Close to nature forestry is a feature of",
           "options": [
-            " clear felling system",
+            "clear felling system",
             "selection system",
             "uniform shelterwood system",
             "group shelterwood system"
           ],
-          "answer": 
-            "selection system"
-          
+          "answer": "selection system"
+        },
+        {
+          "question": "Felling made with the object of opening the canopy to remove shelter and allow more light for the regenerated crop is",
+          "options": [
+            "preparatory felling",
+            "seeding felling",
+            "secondary felling",
+            "final felling"
+          ],
+          "answer": "secondary felling"
+        },
+        {
+          "question": "For a crop with rotation age of 120 years, PB-III would have crop age",
+          "options": [
+            "0-30 years",
+            "30-60 years",
+            "60-90 years",
+            "90-120 years"
+          ],
+          "answer": "30-60 years"
+        },
+        {
+          "question": "Clear felling system is not used for",
+          "options": [
+            "light demanding species",
+            "shade bearer species",
+            "plain areas",
+            "plateau areas"
+          ],
+          "answer": "shade bearer species"
+        },
+        {
+          "question": "Trees not putting increment are removed during",
+          "options": [
+            "preparatory felling",
+            "seeding felling",
+            "secondary felling",
+            "final felling"
+          ],
+          "answer": "preparatory felling"
         },
         {
           "question": "In group shelterwood system, the regeneration area is increased",
           "options": [
-            " centrifugally around gaps",
+            "centrifugally around gaps",
             "centripetally around gaps",
             "parallel to gaps",
             "perpendicular to gaps"
           ],
-          "answer": 
-            " centrifugally around gaps"
-          
+          "answer": "centrifugally around gaps"
         }
       ]
     },
@@ -2274,122 +2115,102 @@ export const ForestJSON = {
         {
           "question": "Surveying timberlands to locate and estimate the volumes and grades of standing timber meeting requirements is known as",
           "options": [
-            " surveying",
+            "surveying",
             "cruising",
             "marking",
             "logging"
           ],
-          "answer": 
-            "cruising"
-          
+          "answer": "cruising"
         },
         {
-          "question": "Which of these gives the greatest saving of lumber",
+          "question": "Trees to be retained are shown in _______ marking colour",
           "options": [
-            " conventional face",
-            "humboldt face",
-            "open face",
-            "all of these"
+            "yellow",
+            "blue",
+            "red",
+            "white"
           ],
-          "answer": 
-            "humboldt face"
-          
+          "answer": "blue"
         },
         {
-          "question": "Careful selection of trees for harvesting based on a forest management prescription is known as",
+          "question": "Trees on boundary are shown in _______ marking colour",
           "options": [
-            " surveying",
-            "cruising",
-            "marking",
-            "logging"
+            "yellow",
+            "blue",
+            "red",
+            "white"
           ],
-          "answer": 
-            "marking"
-          
+          "answer": "red"
         },
         {
           "question": "Cutting of timber into logs is known as",
           "options": [
-            " marking",
+            "marking",
             "bucking",
             "skidding",
             "delimbing"
           ],
-          "answer": 
-            "bucking"
-          
+          "answer": "bucking"
         },
         {
-          "question": "Research plots are shown in marking colour",
+          "question": "Careful selection of trees for harvesting based on a forest management prescription is known as",
           "options": [
-            " yellow",
-            "blue",
-            "red",
-            "white"
+            "surveying",
+            "cruising",
+            "marking",
+            "logging"
           ],
-          "answer": 
-            "white"
-          
-        },
-        {
-          "question": "Which of these gives the greatest accuracy in constructing face cuts",
-          "options": [
-            " conventional face",
-            "humboldt face",
-            "open face",
-            "all of these."
-          ],
-          "answer": 
-            " conventional face"
-          
-        },
-        {
-          "question": "Trees to be retained are shown in marking colour.",
-          "options": [
-            " yellow",
-            "blue",
-            "red",
-            "white"
-          ],
-          "answer": 
-            "blue"
-          
-        },
-        {
-          "question": "Moving of logs from forest to landing area is known as",
-          "options": [
-            " marking",
-            "bucking",
-            "skidding",
-            "delimbing"
-          ],
-          "answer": 
-            "skidding"
-          
-        },
-        {
-          "question": "Trees on boundary are shown in marking colour.",
-          "options": [
-            " yellow",
-            "blue",
-            "red",
-            "white"
-          ],
-          "answer": 
-            "red"
-          
+          "answer": "marking"
         },
         {
           "question": "Net growth in initial volume is given by",
           "options": [
-            " V2-V1",
+            "V2-V1",
             "V2-V1+H-I",
             "V2-V1+H-I+M",
             "V2-V1+H-I-M"
           ],
-          "answer": 
-            "V2-V1+H-I"
-          
+          "answer": "V2-V1+H-I"
+        },
+        {
+          "question": "Research plots are shown in _______ marking colour",
+          "options": [
+            "yellow",
+            "blue",
+            "red",
+            "white"
+          ],
+          "answer": "white"
+        },
+        {
+          "question": "Which of these gives the greatest accuracy in constructing face cuts",
+          "options": [
+            "conventional face",
+            "humboldt face",
+            "open face",
+            "all of these"
+          ],
+          "answer": "conventional face"
+        },
+        {
+          "question": "Which of these gives the greatest saving of lumber",
+          "options": [
+            "conventional face",
+            "humboldt face",
+            "open face",
+            "all of these"
+          ],
+          "answer": "humboldt face"
+        },
+        {
+          "question": "Moving of logs from forest to landing area is known as",
+          "options": [
+            "marking",
+            "bucking",
+            "skidding",
+            "delimbing"
+          ],
+          "answer": "skidding"
         }
       ]
     },
@@ -2397,124 +2218,104 @@ export const ForestJSON = {
       "name": "10",
       "questions": [
         {
-          "question": "Which of these is not a laboratory method to determine best days for seed collection?",
+          "question": "Wet and dry treatment of seeds is used for which species",
           "options": [
-            " maximum dry weight",
-            "colour of fruits",
-            "Omoisture content of fruits",
-            "chemical analysis of fat and nitrogen content"
+            "amla",
+            "mango",
+            "ber",
+            "teak"
           ],
-          "answer": 
-            "colour of fruits"
-          
-        },
-        {
-          "question": "\"Number of seeds in sample that germinate upto the peak germination period expressed as %\" is a definition of",
-          "options": [
-            " germination number",
-            "germination percentage",
-            "germination energy",
-            "germination power"
-          ],
-          "answer": 
-            "germination energy"
-          
+          "answer": "teak"
         },
         {
           "question": "Which of these is a good storage condition",
           "options": [
-            " high moisture, high temperature",
+            "high moisture, high temperature",
             "high moisture, low temperature",
             "low moisture, high temperature",
             "low moisture, low temperature"
           ],
-          "answer": 
-            "low moisture, low temperature"
-          
-        },
-        {
-          "question": "Shell cracking of seeds is used for which species",
-          "options": [
-            " O amla",
-            "O mango",
-            "Ober (palm)",
-            "O teak"
-          ],
-          "answer": 
-            "Ober (palm)"
-          
-        },
-        {
-          "question": "agave is used for",
-          "options": [
-            " barbed wire fencing",
-            "live fencing",
-            "chain link fencing",
-            "stone wall fencing"
-          ],
-          "answer": 
-            "live fencing"
-          
-        },
-        {
-          "question": "Which of these prevents water logging",
-          "options": [
-            " sunken bed",
-            "Oraised bed",
-            "Oflat bed",
-            "all of these."
-          ],
-          "answer": 
-            "Oraised bed"
-          
-        },
-        {
-          "question": "Which of these characterises a refractory site",
-          "options": [
-            " soil depth \u003C 10 cm",
-            "soil depth 10-30 cm",
-            "soil depth \u003E 30 cm",
-            "none of these"
-          ],
-          "answer": 
-            " soil depth \u003C 10 cm"
-          
-        },
-        {
-          "question": "Which of these conserves moisture",
-          "options": [
-            " p",
-            "sunken bed",
-            "Oraised bed",
-            "flat bed"
-          ],
-          "answer": 
-            "sunken bed"
-          
+          "answer": "low moisture, low temperature"
         },
         {
           "question": "Choice of spacing is dependent upon",
           "options": [
-            " objective of plantation",
+            "objective of plantation",
             "site-species matching",
-            "O growth rate",
-            "all of these."
+            "growth rate",
+            "all of these"
           ],
-          "answer": 
-            "all of these."
-          
+          "answer": "all of these"
         },
         {
-          "question": "Wet and dry treatment of seeds is used for which species",
+          "question": "Shell cracking of seeds is used for which species",
           "options": [
-            " amla",
+            "amla",
             "mango",
             "ber",
-            "O teak"
+            "teak"
           ],
-          "answer": 
-            "O teak"
-          
+          "answer": "ber"
+        },
+        {
+          "question": "Agave is used for",
+          "options": [
+            "barbed wire fencing",
+            "live fencing",
+            "chain link fencing",
+            "stone wall fencing"
+          ],
+          "answer": "live fencing"
+        },
+        {
+          "question": "Which of these conserves moisture",
+          "options": [
+            "sunken bed",
+            "raised bed",
+            "flat bed",
+            "all of these"
+          ],
+          "answer": "sunken bed"
+        },
+        {
+          "question": "Number of seeds in sample that germinate upto the peak germination period expressed as % is a definition of",
+          "options": [
+            "germination number",
+            "germination percentage",
+            "germination energy",
+            "germination power"
+          ],
+          "answer": "germination energy"
+        },
+        {
+          "question": "Which of these prevents water logging",
+          "options": [
+            "sunken bed",
+            "raised bed",
+            "flat bed",
+            "all of these"
+          ],
+          "answer": "raised bed"
+        },
+        {
+          "question": "Which of these characterises a refractory site",
+          "options": [
+            "soil depth < 10 cm",
+            "soil depth 10-30 cm",
+            "soil depth > 30 cm",
+            "none of these"
+          ],
+          "answer": "soil depth < 10 cm"
+        },
+        {
+          "question": "Which of these is not a laboratory method to determine best days for seed collection?",
+          "options": [
+            "maximum dry weight",
+            "colour of fruits",
+            "moisture content of fruits",
+            "chemical analysis of fat and nitrogen content"
+          ],
+          "answer": "colour of fruits"
         }
       ]
     },
@@ -2524,122 +2325,102 @@ export const ForestJSON = {
         {
           "question": "Which of these is not a forest classification as per the 1894 Forest Policy:",
           "options": [
-            " protection forest",
+            "protection forest",
             "production forest",
-            "Ominor forest",
-            "Omajor forest"
+            "minor forest",
+            "major forest"
           ],
-          "answer": 
-            "Omajor forest"
-          
+          "answer": "major forest"
         },
         {
-          "question": "In 1931, Van Panchayats were constituted in areas that are now in",
+          "question": "Captive breeding is an example of",
           "options": [
-            " Tamil Nadu",
-            "Madhya Pradesh",
-            "West Bengal",
-            "Uttarakhand"
+            "in-situ conservation",
+            "ex-situ conservation",
+            "in-situ preservation",
+            "ex-situ preservation"
           ],
-          "answer": 
-            "Uttarakhand"
-          
+          "answer": "ex-situ conservation"
         },
         {
-          "question": "Planting along canal banks is a part of",
+          "question": "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
           "options": [
-            " farm forestry",
-            "community forestry",
-            "extension forestry",
-            "O agroforestry"
+            "umbrella species",
+            "keystone species",
+            "flagship species",
+            "all of the above"
           ],
-          "answer": 
-            "extension forestry"
-          
-        },
-        {
-          "question": "\"allowing some places and some creatures to exist without significant human interference\" is a definition of",
-          "options": [
-            " conservation",
-            "preservation",
-            "environmentalism",
-            "O all of these"
-          ],
-          "answer": 
-            "preservation"
-          
+          "answer": "all of the above"
         },
         {
           "question": "Sustainable harvest of resources falls under the category of:",
           "options": [
-            " conservation",
+            "conservation",
             "preservation",
             "environmentalism",
             "none of the above"
           ],
-          "answer": 
-            " conservation"
-          
+          "answer": "conservation"
         },
         {
-          "question": "The tiger and the elephant can be called as",
+          "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
           "options": [
-            " umbrella species",
             "umbrella species",
+            "keystone species",
             "flagship species",
             "all of the above"
           ],
-          "answer": 
-            "all of the above"
-          
+          "answer": "all of the above"
         },
         {
-          "question": "Which of these is a stochastic factor?",
+          "question": "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
           "options": [
-            " birth rate",
-            "death rate",
-            "population structure",
-            "forest fire"
+            "umbrella species",
+            "keystone species",
+            "flagship species",
+            "extinct species"
           ],
-          "answer": 
-            "forest fire"
-          
+          "answer": "flagship species"
+        },
+        {
+          "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+          "options": [
+            "very high",
+            "medium",
+            "very low",
+            "non-existent"
+          ],
+          "answer": "medium"
         },
         {
           "question": "\"Science of relationships between organisms and their environments\" is the definition of:",
           "options": [
-            " conservation",
+            "conservation",
             "preservation",
             "environmentalism",
             "ecology"
           ],
-          "answer": 
-            "ecology"
-          
+          "answer": "ecology"
         },
         {
-          "question": "Which of these is a deterministic factor?",
+          "question": "In 1931, Van Panchayats were constituted in areas that are now in",
           "options": [
-            " environmental variation and fluctuations",
-            "migration among populations",
-            "Olitter size",
-            "O death rate"
+            "Tamil Nadu",
+            "Madhya Pradesh",
+            "West Bengal",
+            "Uttarakhand"
           ],
-          "answer": 
-            "O death rate"
-          
+          "answer": "Uttarakhand"
         },
         {
-          "question": "The acronym HIPPO does not include",
+          "question": "Planting along canal banks is a part of",
           "options": [
-            " habitat loss",
-            "habitat enhancement",
-            "invasive species",
-            "human over-population"
+            "farm forestry",
+            "community forestry",
+            "extension forestry",
+            "agroforestry"
           ],
-          "answer": 
-            "habitat enhancement"
-          
+          "answer": "extension forestry"
         }
       ]
     },
@@ -2647,129 +2428,110 @@ export const ForestJSON = {
       "name": "12",
       "questions": [
         {
-          "question": "A scientist uses a trap to capture a monkey. In the context of Wildlife Protection Act 1972, the trap is a weapon and capturing is hunting. \nthe trap is not a weapon and capturing is hunting.\nthe trap is a weapon and capturing is not hunting.\nthe trap is not a weapon and capturing is not hunting.",
-          "options": [
-            " the trap is a weapon and capturing is hunting.",
-            "the trap is not a weapon and capturing is hunting.",
-            "the trap is a weapon and capturing is not hunting.",
-            "the trap is not a weapon and capturing is not hunting."
-          ],
-          "answer": 
-            " the trap is a weapon and capturing is hunting."
-          
-        },
-        {
           "question": "Which of these is not a characteristic of pioneer species\nability to grow on bare rocks\nability to tolerate extreme temperatures\nlarge size\nshort life span",
           "options": [
-            " ability to grow on bare rocks",
+            "ability to grow on bare rocks",
             "ability to tolerate extreme temperatures",
             "large size",
             "short life span"
           ],
-          "answer": 
-            "large size"
-          
-        },
-        {
-          "question": "agave is used for\nbarbed wire fencing\nOlive fencing\nchain link fencing\nstone wall fencing",
-          "options": [
-            " barbed wire fencing",
-            "Olive fencing",
-            "chain link fencing",
-            "stone wall fencing"
-          ],
-          "answer": 
-            "Olive fencing"
-          
-        },
-        {
-          "question": "At compensation point,\nphotosynthesis = respiration\nphotosynthesis \u003E respiration\nphotosynthesis \u003C respiration\nnone of these",
-          "options": [
-            " photosynthesis = respiration",
-            "photosynthesis \u003E respiration",
-            "photosynthesis \u003C respiration",
-            "none of these"
-          ],
-          "answer": 
-            " photosynthesis = respiration"
-          
-        },
-        {
-          "question": "The breast height for Japan and Korea is\n1.1 m\n1.2 m\n1.3 m\n1.4 m",
-          "options": [
-            " 1.1 m",
-            "1.2 m",
-            "1.3 m",
-            "1.4 m"
-          ],
-          "answer": 
-            "1.2 m"
-          
-        },
-        {
-          "question": "In the triangle of figure, 0 = 60° and c = 2 cm. Find b.",
-          "options": [
-            " 0.33",
-            "0.5",
-            "0.75",
-            "1"
-          ],
-          "answer": 
-            "1"
-          
-        },
-        {
-          "question": "The tiger and the elephant can be called as\numbrella species\nkeystone species\nflagship species\nall of the above",
-          "options": [
-            " umbrella species",
-            "keystone species",
-            "flagship species",
-            "all of the above"
-          ],
-          "answer": 
-            "all of the above"
-          
-        },
-        {
-          "question": "The movement of seeds away from their place of seed production into a new area is called\ntranslocation\nmigration\ndispersal\ndrifting",
-          "options": [
-            " translocation",
-            "migration",
-            "dispersal",
-            "drifting"
-          ],
-          "answer": 
-            "dispersal"
-          
-        },
-        {
-          "question": "According to the Supreme Court, the term forest land includes\nsome area recorded as forest in the Government record according to ownership\nany area recorded as forest in the Government record according to ownership\nsome area recorded as forest in the Government record irrespective of ownership\nany area recorded as forest in the Government record irrespective of ownership",
-          "options": [
-            " some area recorded as forest in the Government record according to ownership",
-            "any area recorded as forest in the Government record according to ownership",
-            "some area recorded as forest in the Government record irrespective of ownership",
-            "any area recorded as forest in the Government record irrespective of ownership"
-          ],
-          "answer": 
-            "any area recorded as forest in the Government record irrespective of ownership"
-          
+          "answer": "large size"
         },
         {
           "question": "Which of these is a stochastic factor?\nbirth rate\ndeath rate\npopulation structure\nforest fire",
           "options": [
-            " birth rate",
+            "birth rate",
             "death rate",
             "population structure",
             "forest fire"
           ],
-          "answer": 
-            "forest fire"
-          
+          "answer": "forest fire"
+        },
+        {
+          "question": "According to the Supreme Court, the term forest land includes\nsome area recorded as forest in the Government record according to ownership\nany area recorded as forest in the Government record according to ownership\nsome area recorded as forest in the Government record irrespective of ownership\nany area recorded as forest in the Government record irrespective of ownership",
+          "options": [
+            "some area recorded as forest in the Government record according to ownership",
+            "any area recorded as forest in the Government record according to ownership",
+            "some area recorded as forest in the Government record irrespective of ownership",
+            "any area recorded as forest in the Government record irrespective of ownership"
+          ],
+          "answer": "any area recorded as forest in the Government record irrespective of ownership"
+        },
+        {
+          "question": "The movement of seeds away from their place of seed production into a new area is called\ntranslocation\nmigration\ndispersal\ndrifting",
+          "options": [
+            "translocation",
+            "migration",
+            "dispersal",
+            "drifting"
+          ],
+          "answer": "dispersal"
+        },
+        {
+          "question": "The tiger and the elephant can be called as\numbrella species\nkeystone species\nflagship species\nall of the above",
+          "options": [
+            "umbrella species",
+            "keystone species",
+            "flagship species",
+            "all of the above"
+          ],
+          "answer": "all of the above"
+        },
+        {
+          "question": "In the triangle of figure, 0 = 60° and c = 2 cm. Find b.",
+          "options": [
+            "0.33",
+            "0.5",
+            "0.75",
+            "1"
+          ],
+          "answer": "1"
+        },
+        {
+          "question": "The breast height for Japan and Korea is\n1.1 m\n1.2 m\n1.3 m\n1.4 m",
+          "options": [
+            "1.1 m",
+            "1.2 m",
+            "1.3 m",
+            "1.4 m"
+          ],
+          "answer": "1.2 m"
+        },
+        {
+          "question": "At compensation point,\nphotosynthesis = respiration\nphotosynthesis > respiration\nphotosynthesis < respiration\nnone of these",
+          "options": [
+            "photosynthesis = respiration",
+            "photosynthesis > respiration",
+            "photosynthesis < respiration",
+            "none of these"
+          ],
+          "answer": "photosynthesis = respiration"
+        },
+        {
+          "question": "agave is used for\nbarbed wire fencing\nOlive fencing\nchain link fencing\nstone wall fencing",
+          "options": [
+            "barbed wire fencing",
+            "Olive fencing",
+            "chain link fencing",
+            "stone wall fencing"
+          ],
+          "answer": "Olive fencing"
+        },
+        {
+          "question": "A scientist uses a trap to capture a monkey. In the context of Wildlife Protection Act 1972, the trap is a weapon and capturing is hunting. \nthe trap is not a weapon and capturing is hunting.\nthe trap is a weapon and capturing is not hunting.\nthe trap is not a weapon and capturing is not hunting.",
+          "options": [
+            "the trap is a weapon and capturing is hunting.",
+            "the trap is not a weapon and capturing is hunting.",
+            "the trap is a weapon and capturing is not hunting.",
+            "the trap is not a weapon and capturing is not hunting."
+          ],
+          "answer": "the trap is a weapon and capturing is hunting."
         }
       ]
     }
   ]
 }
+
 export const spokenenglishJSON = {
 "title": "NOC:Better Spoken English",
 "request_count": "1",
@@ -4178,7 +3940,1273 @@ export const spokenenglishJSON = {
 ]
 }
 
-
+export const conservationEconomicsJSON = {
+  "title": "Conservation Economics",
+  "code": "102104086",
+  "weeks": [
+    {
+      "name": "1",
+      "questions": [
+        {
+          "question": "In the word root for conservation, con stands for",
+          "options": [
+            "together",
+            "to keep",
+            "house",
+            "manage"
+          ],
+          "answer": "together"
+        },
+        {
+          "question": "\"the ability of a single economic actor (or small group of actors) to have a substantial influence on market prices\" is known as",
+          "options": [
+            "price power",
+            "market power",
+            "externality",
+            "economic power"
+          ],
+          "answer": "market power"
+        },
+        {
+          "question": "\"an economy that allocates resources through the decentralised decisions of many firms and households as they interact in markets for goods and services\" is a / an",
+          "options": [
+            "urban economy",
+            "rural economy",
+            "planned economy",
+            "market economy"
+          ],
+          "answer": "market economy"
+        },
+        {
+          "question": "In the word root for conservation, servare stands for",
+          "options": [
+            "together",
+            "to keep",
+            "house",
+            "manage"
+          ],
+          "answer": "to keep"
+        }, 
+        {
+          "question": "Which of these is true?",
+          "options": [
+            "Wants are unlimited, resources are unlimited",
+            "Wants are limited, resources are limited",
+            "Wants are unlimited, resources are limited",
+            "Wants are limited, resources are unlimited"
+          ],
+          "answer": "Wants are unlimited, resources are limited"
+        },
+        {
+          "question": "\"an increase in the overall level of prices in the economy\" is",
+          "options": [
+            "inflation",
+            "deflation",
+            "stagflation",
+            "priceflation"
+          ],
+          "answer": "inflation"
+        },
+        {
+          "question": "Phillips curve shows the relation between",
+          "options": [
+            "profit and loss",
+            "marked price and selling price",
+            "inflation rate and unemployment rate",
+            "electricity consumption and heat output"
+          ],
+          "answer": "inflation rate and unemployment rate"
+        },
+        {
+          "question": "In the word root for Economics, oikos stands for",
+          "options": [
+            "together",
+            "to keep",
+            "house",
+            "manage"
+          ],
+          "answer": "house"
+        },
+        {
+          "question": "Most of rational thinking occurs",
+          "options": [
+            "before the margin",
+            "at the margin",
+            "after the margin",
+            "none of these"
+          ],
+          "answer": "at the margin"
+        },
+        {
+          "question": "Input costs that do not require an outlay of money are",
+          "options": [
+            "explicit costs",
+            "implicit costs",
+            "opportunity costs",
+            "phantom costs"
+          ],
+          "answer": "implicit costs"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "questions": [
+        {
+          "question": "Which of these is not a pillar of sustainability?",
+          "options": [
+            "environmental sustainability",
+            "economic sustainability",
+            "trans-boundary sustainability",
+            "social sustainability"
+          ],
+          "answer": "trans-boundary sustainability"
+        },
+        {
+          "question": "The Trinity explosion of 1945 is taken as the beginning of the",
+          "options": [
+            "Holocene",
+            "Cenocene",
+            "Anthropocene",
+            "Eocene"
+          ],
+          "answer": "Anthropocene"
+        }, 
+        {
+          "question": "According to Malthusian model,",
+          "options": [
+            "Population grows in geometric progression, food supply increases in geometric progression",
+            "Population grows in arithmetic progression, food supply increases in arithmetic progression",
+            "Population grows in arithmetic progression, food supply increases in geometric progression",
+            "Population grows in geometric progression, food supply increases in arithmetic progression"
+          ],
+          "answer": "Population grows in geometric progression, food supply increases in arithmetic progression"
+        },
+        {
+          "question": "The demographic transition sees a society move from",
+          "options": [
+            "high birth rate, low death rate to low birth rate, high death rate",
+            "low birth rate, high death rate to low birth rate, low death rate",
+            "high birth rate, high death rate to low birth rate, low death rate",
+            "high birth rate, high death rate to low birth rate, high death rate"
+          ],
+          "answer": "high birth rate, high death rate to low birth rate, low death rate"
+        }, 
+        {
+          "question": "Which of these is a pillar of sustainability",
+          "options": [
+            "social sustainability",
+            "industrial sustainability",
+            "agricultural sustainability",
+            "trans-boundary sustainability"
+          ],
+          "answer": "social sustainability"
+        },
+        {
+          "question": "Which of these is a preventive check according to Malthus?",
+          "options": [
+            "foresight",
+            "vice",
+            "misery",
+            "flood"
+          ],
+          "answer": "foresight"
+        }, 
+        {
+          "question": "The quantum of human impacts can be written as",
+          "options": [
+            "$I = P + A + T$",
+            "$I = P X A + T$",
+            "$I = P X A X T$",
+            "$I = P = A + T$"
+          ],
+          "answer": "$I = P X A X T$"
+        },
+        {
+          "question": "The book \"An Essay on the Principle of Population\" was written by",
+          "options": [
+            "Darwin",
+            "Malthus",
+            "Spencer",
+            "Owens"
+          ],
+          "answer": "Malthus"
+        }, 
+        {
+          "question": "The logistic growth equation curve is",
+          "options": [
+            "I-shaped",
+            "J-shaped",
+            "S-shaped",
+            "U-shaped"
+          ],
+          "answer": "S-shaped"
+        },
+        {
+          "question": "Which of these is a positive check according to Malthus?",
+          "options": [
+            "late marriage",
+            "war",
+            "celibacy",
+            "moral restraint"
+          ],
+          "answer": "war"
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "questions": [
+        {
+          "question": "_______ is used to identify which potential impacts are relevant to assess. (Fill in the blank)",
+          "options": [
+            "screening",
+            "scoping",
+            "reporting",
+            "review"
+          ],
+          "answer": "scoping"
+        },
+        {
+          "question": "\"the potential or capacity of a material to have adverse effects on living organisms\" is",
+          "options": [
+            "vulnerability",
+            "susceptibility",
+            "sustainability",
+            "toxicity"
+          ],
+          "answer": "toxicity"
+        }, 
+        {
+          "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with soil and ________ species of deciduous forest planted again. This is an example of",
+          "options": [
+            "recovery",
+            "restoration",
+            "enhancement",
+            "replacement"
+          ],
+          "answer": "restoration"
+        },
+        {
+          "question": "Hydrocarbons derived from incomplete burning of mineral oils are",
+          "options": [
+            "petrogenic hydrocarbons",
+            "pyrogenic hydrocarbons",
+            "biogenic hydrocarbons",
+            "chemoenic hydrocarbons"
+          ],
+          "answer": "pyrogenic hydrocarbons"
+        },
+        {
+          "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with water and a ________ lake was created. It is now visited by several migratory birds. This is an example of",
+          "options": [
+            "recovery",
+            "restoration",
+            "enhancement",
+            "replacement"
+          ],
+          "answer": "replacement"
+        },
+        {
+          "question": "\"the relative effect of exposure\" is",
+          "options": [
+            "vulnerability",
+            "sensitivity",
+            "sustainability",
+            "toxicity"
+          ],
+          "answer": "sensitivity"
+        },
+        {
+          "question": "_______ determines which projects or developments require a full or partial impact assessment study. (Fill in the blank)",
+          "options": [
+            "screening",
+            "scoping",
+            "reporting",
+            "review"
+          ],
+          "answer": "screening"
+        },
+        {
+          "question": "\"the extent to which a chemical is available for uptake into an organism\" is",
+          "options": [
+            "bioavailability",
+            "bioaccumulation",
+            "biomagnification",
+            "bioresponse"
+          ],
+          "answer": "bioavailability"
+        },
+        {
+          "question": "Hydrocarbons derived from biological processes acting on mineral oils are",
+          "options": [
+            "petrogenic hydrocarbons",
+            "pyrogenic hydrocarbons",
+            "biogenic hydrocarbons",
+            "chemoenic hydrocarbons"
+          ],
+          "answer": "biogenic hydrocarbons"
+        },
+        {
+          "question": "\"Any changes in natural or human systems that inadvertently increase vulnerability to climatic stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead\" is a definition for",
+          "options": [
+            "adaptation",
+            "mitigation",
+            "maladaptation",
+            "malmitigation"
+          ],
+          "answer": "maladaptation"
+        }
+      ]
+    },
+    {
+      "name": "4",
+      "questions": [
+       
+        {
+          "question": "Which of these is a deterministic factor?",
+          "options": [
+            "environmental variation",
+            "forest fire",
+            "death rate",
+            "diseases"
+          ],
+          "answer": "death rate"
+        },
+        {
+          "question": "I tried growing vegetables under my teak plantation, but the vegetable plants died out. I should be concerned about",
+          "options": [
+            "autophagy",
+            "allelophagy",
+            "autopathy",
+            "allelopathy"
+          ],
+          "answer": "allelopathy"
+        },
+        {
+          "question": "The movement of lions across the Gir landscape is an example of",
+          "options": [
+            "diffusion",
+            "secular dispersal",
+            "jump dispersal",
+            "drifting"
+          ],
+          "answer": "diffusion"
+        }, 
+        {
+          "question": "\"The geographical distribution of a species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance.\" This is the statement for",
+          "options": [
+            "Liebig's law of the minimum",
+            "Liebig's law of the maximum",
+            "Shelford's law of tolerance",
+            "Shelford's law of intolerance"
+          ],
+          "answer": "Shelford's law of tolerance"
+        },
+        {
+          "question": "The regular, seasonal movement of animals, often along fixed routes is called",
+          "options": [
+            "translocation",
+            "migration",
+            "dispersal",
+            "drifting"
+          ],
+          "answer": "migration"
+        },
+        {
+          "question": "Which of these is a stochastic factor?",
+          "options": [
+            "birth rate",
+            "death rate",
+            "population structure",
+            "environmental fluctuation"
+          ],
+          "answer": "environmental fluctuation"
+        },
+        {
+          "question": "The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called",
+          "options": [
+            "translocation",
+            "migration",
+            "dispersal",
+            "drifting"
+          ],
+          "answer": "dispersal"
+        },
+        {
+          "question": "Scarcity of food is a",
+          "options": [
+            "chemical factor",
+            "demographic factor",
+            "push factor",
+            "pull factor"
+          ],
+          "answer": "push factor"
+        },
+        {
+          "question": "Which of these correctly represents the process of habitat fragmentation and loss?",
+          "options": [
+            "Original forest → Dissection → Perforation → Fragmentation → Attrition",
+            "Original forest → Dissection → Attrition → Fragmentation → Perforation",
+            "Original forest → Dissection → Perforation → Attrition → Fragmentation",
+            "Original forest → Dissection → Fragmentation → Perforation → Attrition"
+          ],
+          "answer": "Original forest → Dissection → Perforation → Fragmentation → Attrition"
+        }, 
+        {
+          "question": "A root zone treatment plant is an example of",
+          "options": [
+            "phytoremediation",
+            "biological control",
+            "biomagnification",
+            "bioaccumulation"
+          ],
+          "answer": "phytoremediation"
+        }
+      ]
+    },
+    {
+      "name": "5",
+      "questions": [
+        {
+          "question": "\"a measure of the responsiveness of quantity demanded or quantity supplied to a change in one of its determinants\" is",
+          "options": [
+            "elasticity",
+            "responsivity",
+            "demand-supply equilibrium",
+            "pricing"
+          ],
+          "answer": "elasticity"
+        },
+        {
+          "question": "\"the ability to produce a good using fewer inputs than another producer\" is",
+          "options": [
+            "comparative advantage",
+            "absolute advantage",
+            "production advantage",
+            "resource advantage"
+          ],
+          "answer": "absolute advantage"
+        }, 
+        {
+          "question": "Common resource goods are",
+          "options": [
+            "excludable, rival in consumption",
+            "non-excludable, rival in consumption",
+            "excludable, non-rival in consumption",
+            "non-excludable, non-rival in consumption"
+          ],
+          "answer": "non-excludable, rival in consumption"
+        },
+        {
+          "question": "\"If private parties can bargain without cost over the allocation of resources, they can solve the problem of externalities on their own.\" This is a statement for",
+          "options": [
+            "Allocation theorem",
+            "Phillips theorem",
+            "Coase theorem",
+            "Nash theorem"
+          ],
+          "answer": "Coase theorem"
+        }, 
+        {
+          "question": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs is known as",
+          "options": [
+            "Good development",
+            "Sustainable development",
+            "Futuristic development",
+            "Gandhian development"
+          ],
+          "answer": "Sustainable development"
+        },
+        {
+          "question": "Club goods are",
+          "options": [
+            "excludable, rival in consumption",
+            "non-excludable, rival in consumption",
+            "excludable, non-rival in consumption",
+            "non-excludable, non-rival in consumption"
+          ],
+          "answer": "excludable, non-rival in consumption"
+        },
+        {
+          "question": "Which of these is not a method of internalisation of externalities?",
+          "options": [
+            "tradable pollution permits",
+            "charities to social causes",
+            "command-and-control policies",
+            "free market"
+          ],
+          "answer": "free market"
+        },
+        {
+          "question": "Private goods are",
+          "options": [
+            "excludable, rival in consumption",
+            "non-excludable, rival in consumption",
+            "excludable, non-rival in consumption",
+            "non-excludable, non-rival in consumption"
+          ],
+          "answer": "excludable, rival in consumption"
+        },
+        {
+          "question": "\"a simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions\" is the definition of a / an",
+          "options": [
+            "equation",
+            "model",
+            "philosophy",
+            "process dynamics"
+          ],
+          "answer": "model"
+        }, 
+        {
+          "question": "\"the impact of one person's actions on the well-being of a bystander\" is",
+          "options": [
+            "actor-observer effect",
+            "externality",
+            "internality",
+            "benefits principle"
+          ],
+          "answer": "externality"
+        }
+      ]
+    },
+    {
+      "name": "6",
+      "questions": [
+        {
+          "question": "\"the claim that, other things being equal, the quantity demanded of a good falls when the price of the good rises\" is a statement of",
+          "options": [
+            "law of demand",
+            "law of supply",
+            "law of quantity demanded",
+            "law of quantity supplied"
+          ],
+          "answer": "law of demand"
+        },
+        {
+          "question": "\"a legal maximum on the price at which a good can be sold\" is",
+          "options": [
+            "price ceiling",
+            "price floor",
+            "selling ceiling",
+            "selling floor"
+          ],
+          "answer": "price ceiling"
+        },
+        {
+          "question": "\"a good for which, other things being equal, an increase in income leads to a decrease in demand\" is",
+          "options": [
+            "normal good",
+            "inferior good",
+            "Giffen good",
+            "common good"
+          ],
+          "answer": "inferior good"
+        },
+        {
+          "question": "\"a table that shows the relationship between the price of a good and the quantity supplied\" is",
+          "options": [
+            "demand table",
+            "demand schedule",
+            "supply table",
+            "supply schedule"
+          ],
+          "answer": "supply schedule"
+        }, 
+        {
+          "question": "\"a graph of the relationship between the price of a good and the quantity demanded\" is",
+          "options": [
+            "demand curve",
+            "supply curve",
+            "Laffer's curve",
+            "Phillips curve"
+          ],
+          "answer": "demand curve"
+        },
+        {
+          "question": "\"a table that shows the relationship between the price of a good and the quantity demanded\" is",
+          "options": [
+            "demand table",
+            "demand schedule",
+            "supply table",
+            "supply schedule"
+          ],
+          "answer": "demand schedule"
+        },
+        {
+          "question": "\"a measure of how much the quantity demanded of one good responds to a change in the price of another good, computed as the percentage change in quantity demanded of the first good divided by the percentage change in price of the second good\" is",
+          "options": [
+            "income elasticity of demand",
+            "cross-price elasticity of demand",
+            "price elasticity of supply",
+            "price elasticity of demand"
+          ],
+          "answer": "cross-price elasticity of demand"
+        },
+        {
+          "question": "Rice and wheat are",
+          "options": [
+            "substitutes",
+            "complements",
+            "club goods",
+            "public goods"
+          ],
+          "answer": "substitutes"
+        },
+        {
+          "question": "\"a good for which, other things being equal, an increase in income leads to an increase in demand\" is",
+          "options": [
+            "normal good",
+            "inferior good",
+            "Giffen good",
+            "common good"
+          ],
+          "answer": "normal good"
+        },
+        {
+          "question": "\"a measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity demanded divided by the percentage change in price\" is",
+          "options": [
+            "price elasticity of demand",
+            "income elasticity of demand",
+            "cross-price elasticity of demand",
+            "price elasticity of supply"
+          ],
+          "answer": "price elasticity of demand"
+        }
+      ]
+    },
+    {
+      "name": "7",
+      "questions": [
+        {
+          "question": "\"the price of a good that prevails in the world market for that good\" is the definition of",
+          "options": [
+            "export price",
+            "import price",
+            "world price",
+            "domestic price"
+          ],
+          "answer": "world price"
+        },
+        {
+          "question": "The area between the demand curve and the price is an indicator of",
+          "options": [
+            "consumer surplus",
+            "producer surplus",
+            "total surplus",
+            "deadweight loss"
+          ],
+          "answer": "consumer surplus"
+        },
+        {
+          "question": "\"the amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it\" is",
+          "options": [
+            "consumer surplus",
+            "producer surplus",
+            "total surplus",
+            "deadweight loss"
+          ],
+          "answer": "consumer surplus"
+        },
+        {
+          "question": "\"the amount a seller is paid for a good minus the seller's cost of providing it\" is",
+          "options": [
+            "consumer surplus",
+            "producer surplus",
+            "total surplus",
+            "deadweight loss"
+          ],
+          "answer": "producer surplus"
+        }, 
+        {
+          "question": "Value to buyers - Cost to sellers is",
+          "options": [
+            "consumer surplus",
+            "producer surplus",
+            "total surplus",
+            "deadweight loss"
+          ],
+          "answer": "total surplus"
+        },
+        {
+          "question": "\"the fall in total surplus that results from a market distortion, such as a tax\" is",
+          "options": [
+            "consumer surplus",
+            "producer surplus",
+            "total surplus",
+            "deadweight loss"
+          ],
+          "answer": "deadweight loss"
+        },
+        {
+          "question": "Laffer's curve is the relationship between",
+          "options": [
+            "inflation and unemployment",
+            "tax size and tax revenue",
+            "producer surplus and consumer surplus",
+            "tax size and deadweight loss"
+          ],
+          "answer": "tax size and tax revenue"
+        },
+        {
+          "question": "Imposition of tariff",
+          "options": [
+            "increases producer surplus and government revenue",
+            "increases consumer surplus and government revenue",
+            "increases producer surplus, consumer surplus and government revenue",
+            "increases total surplus"
+          ],
+          "answer": "increases producer surplus and government revenue"
+        }, 
+        {
+          "question": "\"the maximum amount that a buyer will pay for a good\" is",
+          "options": [
+            "willingness to pay",
+            "market demand",
+            "demand curve",
+            "buyer's surplus"
+          ],
+          "answer": "willingness to pay"
+        },
+        {
+          "question": "The area between the supply curve and the price is an indicator of",
+          "options": [
+            "consumer surplus",
+            "producer surplus",
+            "total surplus",
+            "deadweight loss"
+          ],
+          "answer": "producer surplus"
+        }
+      ]
+    },
+    {
+      "name": "8",
+      "questions": [
+        {
+          "question": "For a positive consumption externality,",
+          "options": [
+            "SMB = PMB",
+            "SMB = PMB - MD",
+            "SMB = PMB + MB",
+            "SMC = PMC / MD"
+          ],
+          "answer": "SMB = PMB + MB"
+        },
+        {
+          "question": "For a positive production externality,",
+          "options": [
+            "SMB = PMB",
+            "SMB = PMB - MD",
+            "SMB = PMB + MB",
+            "SMC = PMC / MD"
+          ],
+          "answer": "SMB = PMB"
+        },
+        {
+          "question": "\"The direct cost to producers of producing an additional unit of a good\" is",
+          "options": [
+            "private marginal cost (PMC)",
+            "social marginal cost (SMC)",
+            "private marginal benefit (PMB)",
+            "social marginal benefit (SMB)"
+          ],
+          "answer": "private marginal cost (PMC)"
+        },
+        {
+          "question": "For a negative production externality,",
+          "options": [
+            "SMC = PMC + MD",
+            "SMC = PMC - MD",
+            "SMC = PMC",
+            "SMC = PMC - MB"
+          ],
+          "answer": "SMC = PMC + MD"
+        }, 
+        {
+          "question": "\"The private marginal cost to producers plus any costs associated with the production of the good that are imposed on others\" is",
+          "options": [
+            "private marginal cost (PMC)",
+            "social marginal cost (SMC)",
+            "private marginal benefit (PMB)",
+            "social marginal benefit (SMB)"
+          ],
+          "answer": "social marginal cost (SMC)"
+        },
+        {
+          "question": "Partying with loud noise is an example of",
+          "options": [
+            "negative production externality",
+            "positive production externality",
+            "negative consumption externality",
+            "positive consumption externality"
+          ],
+          "answer": "negative consumption externality"
+        },
+        {
+          "question": "\"When an individual's consumption increases the well-being of others, but the individual is not compensated by those others,\" we have",
+          "options": [
+            "negative production externality",
+            "positive production externality",
+            "negative consumption externality",
+            "positive consumption externality"
+          ],
+          "answer": "positive consumption externality"
+        },
+        {
+          "question": "\"When a firm's production increases the well-being of others but the firm is not compensated by those others,\" we have",
+          "options": [
+            "negative production externality",
+            "positive production externality",
+            "negative consumption externality",
+            "positive consumption externality"
+          ],
+          "answer": "positive production externality"
+        }, 
+        {
+          "question": "\"When an individual's consumption reduces the well-being of others who are not compensated by the individual,\" we have",
+          "options": [
+            "negative production externality",
+            "positive production externality",
+            "negative consumption externality",
+            "positive consumption externality"
+          ],
+          "answer": "negative consumption externality"
+        },
+        {
+          "question": "For a negative consumption externality,",
+          "options": [
+            "SMB = PMB",
+            "SMB = PMB - MD",
+            "SMB = PMB + MB",
+            "SMC = PMC / MD"
+          ],
+          "answer": "SMB = PMB - MD"
+        }
+      ]
+    },
+    {
+      "name": "9",
+      "questions": [
+        {
+          "question": "\"costs that have already been committed and cannot be recovered\" are",
+          "options": [
+            "fixed costs",
+            "variable costs",
+            "marginal costs",
+            "sunk costs"
+          ],
+          "answer": "sunk costs"
+        },
+        {
+          "question": "\"total revenue minus total cost, including both explicit and implicit costs\" is a definition of",
+          "options": [
+            "economic profit",
+            "accounting profit",
+            "profit",
+            "loss"
+          ],
+          "answer": "economic profit"
+        },
+        {
+          "question": "\"the increase in total cost that arises from an extra unit of production\" are",
+          "options": [
+            "fixed costs",
+            "variable costs",
+            "marginal costs",
+            "sunk costs"
+          ],
+          "answer": "marginal costs"
+        },
+        {
+          "question": "A monopolist firm's profit is given by",
+          "options": [
+            "(Price - ATC) × Q",
+            "(Price - Q) × ATC",
+            "(ATC - Q) × Price",
+            "Price × Q - ATC"
+          ],
+          "answer": "(Price - ATC) × Q"
+        }, 
+        {
+          "question": "Which of the following is true for a competitive firm?",
+          "options": [
+            "P > MR",
+            "P > MC",
+            "MR > MC",
+            "MR = MC"
+          ],
+          "answer": "MR = MC"
+        },
+        {
+          "question": "\"the amount a firm receives for the sale of its output\" is a definition of",
+          "options": [
+            "total revenue",
+            "total cost",
+            "profit",
+            "loss"
+          ],
+          "answer": "total revenue"
+        },
+        {
+          "question": "When the cost of production for a single firm is much lesser than the cost of production for competitive firms, we have a / an",
+          "options": [
+            "natural monopoly",
+            "artificial monopoly",
+            "oligopoly",
+            "duopoly"
+          ],
+          "answer": "natural monopoly"
+        },
+        {
+          "question": "\"costs that do not vary with the quantity of output produced\" are",
+          "options": [
+            "fixed costs",
+            "variable costs",
+            "marginal costs",
+            "sunk costs"
+          ],
+          "answer": "fixed costs"
+        }, 
+        {
+          "question": "\"costs that vary with the quantity of output produced\" are",
+          "options": [
+            "fixed costs",
+            "variable costs",
+            "marginal costs",
+            "sunk costs"
+          ],
+          "answer": "variable costs"
+        },
+        {
+          "question": "\"the increase in output that arises from an additional unit of input\" is",
+          "options": [
+            "marginal product",
+            "marginal profit",
+            "marginal loss",
+            "marginal cost"
+          ],
+          "answer": "marginal product"
+        }
+      ]
+    },
+    {
+      "name": "10",
+      "questions": [
+        {
+          "question": "\"an absolute level of income set by the government for each family size below which a family is deemed to be in poverty\" is known as",
+          "options": [
+            "deprivation line",
+            "poverty line",
+            "deprivation index",
+            "poverty index"
+          ],
+          "answer": "poverty line"
+        },
+        {
+          "question": "Absolute poverty depends",
+          "options": [
+            "on income but not on access to social services",
+            "not on income but on access to social services",
+            "on income and on access to social services",
+            "neither on income nor on access to social services"
+          ],
+          "answer": "on income and on access to social services"
+        },
+        {
+          "question": "\"the equipment and structures used to produce goods and services\" is the definition of",
+          "options": [
+            "tools",
+            "machinery",
+            "capital",
+            "factors of production"
+          ],
+          "answer": "capital"
+        },
+        {
+          "question": "\"above-equilibrium wages paid by firms to increase worker productivity\" are known as",
+          "options": [
+            "compensating wage",
+            "efficiency wage",
+            "productivity wage",
+            "retention wage"
+          ],
+          "answer": "efficiency wage"
+        }, 
+        {
+          "question": "\"government policy aimed at protecting people against the risk of adverse events\" is",
+          "options": [
+            "Social protection",
+            "Social insurance",
+            "Social security",
+            "Socialism"
+          ],
+          "answer": "Social insurance"
+        },
+        {
+          "question": "\"a difference in wages that arises to offset the non-monetary characteristics of different jobs\" is known as",
+          "options": [
+            "differentiating differential",
+            "compensating differential",
+            "differentiating integral",
+            "compensating integral"
+          ],
+          "answer": "compensating differential"
+        },
+        {
+          "question": "For a competitive and profit-maximising firm,",
+          "options": [
+            "each factor's rental price < the value of the marginal product for that factor",
+            "each factor's rental price = the value of the marginal product for that factor",
+            "each factor's rental price > the value of the marginal product for that factor",
+            "each factor's rental price = the value of the marginal product for that factor"
+          ],
+          "answer": "each factor's rental price = the value of the marginal product for that factor"
+        },
+        {
+          "question": "\"a condition characterised by severe deprivation of basic human needs, including food, safe drinking water, sanitation facilities, health, shelter, education and information\" is known as",
+          "options": [
+            "absolute poverty",
+            "relative poverty",
+            "median poverty",
+            "poverty line"
+          ],
+          "answer": "absolute poverty"
+        }, 
+        {
+          "question": "\"a condition where a household's income is lower than the median income in the particular country\" is known as",
+          "options": [
+            "absolute poverty",
+            "relative poverty",
+            "median poverty",
+            "poverty line"
+          ],
+          "answer": "relative poverty"
+        },
+        {
+          "question": "\"the increase in the amount of output from an additional unit of labor\" is",
+          "options": [
+            "marginal product of labour",
+            "marginal product of input",
+            "average product of labour",
+            "average product of input"
+          ],
+          "answer": "marginal product of labour"
+        }
+      ]
+    },
+    {
+      "name": "11",
+      "questions": [
+        {
+          "question": "\"an action taken by an uninformed party to induce an informed party to reveal information\" is known as",
+          "options": [
+            "signalling",
+            "screening",
+            "informing",
+            "heuristics"
+          ],
+          "answer": "screening"
+        },
+        {
+          "question": "\"the part of actual resources that can be developed profitably in the future\" are",
+          "options": [
+            "potential resources",
+            "actual resources",
+            "reserve resources",
+            "stock resources"
+          ],
+          "answer": "reserve resources"
+        },
+        {
+          "question": "\"the limit on the consumption bundles that a consumer can afford\" is known as",
+          "options": [
+            "budget constraint",
+            "bundle constraint",
+            "affordability constraint",
+            "consumption constraint"
+          ],
+          "answer": "budget constraint"
+        },
+        {
+          "question": "\"mental short cut using emotion (gut feeling) to influences the decision\" is",
+          "options": [
+            "affect heuristic",
+            "availability heuristic",
+            "effort heuristic",
+            "familiarity heuristic"
+          ],
+          "answer": "affect heuristic"
+        }, 
+        {
+          "question": "\"those resources that are currently being used after surveying, quantification and qualification\" are",
+          "options": [
+            "potential resources",
+            "actual resources",
+            "reserve resources",
+            "stock resources"
+          ],
+          "answer": "actual resources"
+        },
+        {
+          "question": "\"the change in consumption that results when a price change moves the consumer along a given indifference curve to a point with a new marginal rate of substitution\" is known as",
+          "options": [
+            "income effect",
+            "substitution effect",
+            "indifference effect",
+            "budget effect"
+          ],
+          "answer": "substitution effect"
+        },
+        {
+          "question": "An inferior good whose demand increases with price is called as",
+          "options": [
+            "Normal good",
+            "Veblen good",
+            "Giffen good",
+            "Demand good"
+          ],
+          "answer": "Giffen good"
+        },
+        {
+          "question": "Which of these is not a property of indifference curves?",
+          "options": [
+            "Higher indifference curves are preferred to lower ones",
+            "Indifference curves are downward-sloping",
+            "Indifference curves cross at right angles",
+            "Indifference curves are bowed inwards"
+          ],
+          "answer": "Indifference curves cross at right angles"
+        }, 
+        {
+          "question": "\"an action taken by an informed party to reveal private information to an uninformed party\" is known as",
+          "options": [
+            "signalling",
+            "screening",
+            "informing",
+            "heuristics"
+          ],
+          "answer": "signalling"
+        },
+        {
+          "question": "\"simple strategies or mental processes used to quickly form judgments, make decisions, and find solutions to complex problems\" is known as",
+          "options": [
+            "signalling",
+            "screening",
+            "informing",
+            "heuristics"
+          ],
+          "answer": "heuristics"
+        }
+      ]
+    }, 
+    {
+      "name": "12",
+      "questions": [
+        {
+          "question": "As per Wildlife Protection Act 1972 (WPA 1972), wild life includes any animal, aquatic or land vegetation which forms part of any _______.",
+          "options": [
+            "ecosystem",
+            "state",
+            "country",
+            "habitat"
+          ],
+          "answer": "habitat"
+        },
+        {
+          "question": "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
+          "options": [
+            "umbrella species",
+            "keystone species",
+            "flagship species",
+            "all of the above"
+          ],
+          "answer": "all of the above"
+        },
+        {
+          "question": "Soil formation is an example of",
+          "options": [
+            "provisioning service",
+            "regulating service",
+            "supporting service",
+            "cultural service"
+          ],
+          "answer": "supporting service"
+        },
+        {
+          "question": "Zoo is an example of",
+          "options": [
+            "in-situ conservation",
+            "ex-situ conservation",
+            "in-situ preservation",
+            "ex-situ preservation"
+          ],
+          "answer": "ex-situ conservation"
+        }, 
+        {
+          "question": "The fig tree bears fruits in times when animals do not have much access to food. In this context, it would be a good example of",
+          "options": [
+            "least concern species",
+            "keystone species",
+            "flagship species",
+            "extinct species"
+          ],
+          "answer": "keystone species"
+        },
+        {
+          "question": "Nutrient cycling is an example of",
+          "options": [
+            "provisioning service",
+            "regulating service",
+            "supporting service",
+            "cultural service"
+          ],
+          "answer": "supporting service"
+        },
+        {
+          "question": "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
+          "options": [
+            "umbrella species",
+            "keystone species",
+            "flagship species",
+            "extinct species"
+          ],
+          "answer": "flagship species"
+        },
+        {
+          "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+          "options": [
+            "very high",
+            "medium",
+            "very low",
+            "non-existent"
+          ],
+          "answer": "medium"
+        }, 
+        {
+          "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+          "options": [
+            "umbrella species",
+            "keystone species",
+            "flagship species",
+            "all of the above"
+          ],
+          "answer": "all of the above"
+        },
+        {
+          "question": "Biological control of pest populations is an example of",
+          "options": [
+            "provisioning service",
+            "regulating service",
+            "supporting service",
+            "cultural service"
+          ],
+          "answer": "regulating service"
+        }
+      ]
+    }
+  ]
+}
 
 
 
