@@ -51,19 +51,15 @@ function performSearch(query: string, dataSet: PastPaperWithTags[]) {
         .map((fuseResult) => fuseResult.item);
 }
 
-async function pastPaperPage({ searchParams }: { searchParams: { page?: string, search?: string, tags?: string | string[], examType?: string, slot?: string, year?: string, subjectCode?: string, subject?: string } }) {
+async function pastPaperPage({ searchParams }: { searchParams: Promise<{ page?: string, search?: string, tags?: string | string[] }> }) {
     const prisma = new PrismaClient();
     const pageSize = 9;
-    const search = searchParams.search || '';
-    const examTypeFilter = (searchParams.examType || '').toUpperCase();
-    const slotFilter = (searchParams.slot || '').toUpperCase();
-    const yearFilter = searchParams.year || '';
-    const subjectCodeFilter = (searchParams.subjectCode || '').toUpperCase();
-    const subjectNameFilter = (searchParams.subject || '').toLowerCase();
-    const page = parseInt(searchParams.page || '1', 10);
-    const tags: string[] = Array.isArray(searchParams.tags)
-        ? searchParams.tags
-        : (searchParams.tags ? searchParams.tags.split(',') : []);
+    const params = await searchParams;
+    const search = params.search || '';
+    const page = parseInt(params.page || '1', 10);
+    const tags: string[] = Array.isArray(params.tags)
+        ? params.tags
+        : (params.tags ? params.tags.split(',') : []);
 
     let filteredPastPapers = await prisma.pastPaper.findMany({
         where: {
